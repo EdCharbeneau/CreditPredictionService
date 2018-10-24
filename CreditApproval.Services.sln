@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditPredictionService", "CreditPredictionService\CreditPredictionService.csproj", "{E3C11705-E38A-4792-92D3-FE8328A9C67F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditApproval.Services.Tests", "CreditApproval.Services.Tests\CreditApproval.Services.Tests.csproj", "{C8876749-8180-4A99-AD31-8C7FD07C38E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E3C11705-E38A-4792-92D3-FE8328A9C67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3C11705-E38A-4792-92D3-FE8328A9C67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3C11705-E38A-4792-92D3-FE8328A9C67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8876749-8180-4A99-AD31-8C7FD07C38E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8876749-8180-4A99-AD31-8C7FD07C38E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8876749-8180-4A99-AD31-8C7FD07C38E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8876749-8180-4A99-AD31-8C7FD07C38E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
